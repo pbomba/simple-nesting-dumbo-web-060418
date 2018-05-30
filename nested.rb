@@ -130,4 +130,5 @@ def adding_to_dennis
 arr = programmer_hash[:dennis_ritchie][:languages]
 arr.push("Assembly")
 programmer_hash[:dennis_ritchie][:languages] = arr
+return programmer_hash
 end
