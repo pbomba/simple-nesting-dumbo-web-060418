@@ -83,7 +83,7 @@ def adding_matz
         }
      }
 
-    programmer_hash[:yukihiro_matsumoto] = 0
+    programmer_hash[:yukihiro_matsumoto] = {:known_for => "Ruby"}
 
 end
 
